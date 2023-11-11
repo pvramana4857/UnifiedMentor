@@ -23,9 +23,13 @@
     
 }
 
+.carousel-section{
+    height: 450px;
+    width:  1000px;
+}
+
 .carousel-image{
-    height: 500px;
-    width: 300px;
-    margin-left: 150px;
+    height: 400px;
+    width: 950px;
 }
 
