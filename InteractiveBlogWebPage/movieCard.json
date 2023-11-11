@@ -1,7 +1,43 @@
 [
     {
-        "poster":"https://thesmartlocal.my/wp-content/uploads/2023/01/new-movies-in-2023-ant-man-and-the-wasp-quantumania.jpg",
+        "poster":"https://webneel.com/daily/sites/default/files/images/daily/09-2019/2-movie-poster-design-aladdin-disney-glossy-composite.jpg",
+        "movieTitle":"Aladdin",
+        "movieContext":"A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+    },
+    {
+        "poster":"https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
         "movieTitle":"Black Panther",
-        "movieContext":"It is Oscar Nominated Marvel's Movie"
+        "movieContext":"T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+    },
+    {
+        "poster":"https://m.media-amazon.com/images/I/71Jxq2p5YWL._AC_UF1000,1000_QL80_.jpg",
+        "movieTitle":"Joker",
+        "movieContext":"During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure."
+    },
+    {
+        "poster":"https://media.comicbook.com/2017/10/iron-man-movie-poster-marvel-cinematic-universe-1038878.jpg",
+        "movieTitle":"Iron Man",
+        "movieContext":"After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+    },
+    {
+        "poster":"https://s.yimg.com/ny/api/res/1.2/ZzAHlDHi8a2xdBRRbruaYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTkyOA--/https://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/d05a3f087fa57f6d41b865d53a42a5f5",
+        "movieTitle":"Moonlight",
+        "movieContext":"A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."
+    },
+    {
+        "poster":"https://m.media-amazon.com/images/I/71niXI3lxlL.jpg",
+        "movieTitle":"Avenger's Endgame",
+        "movieContext":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins."
+    },
+    {
+        "poster":"https://www.movieposters.com/cdn/shop/products/wandavision.mp_240x360_crop_center.progressive.jpg?v=1614371756",
+        "movieTitle":"Wanda Vision",
+        "movieContext":"Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives"
+    },
+    {
+        "poster":"https://rukminim2.flixcart.com/image/850/1000/jn3hocw0/poster/j/s/q/medium-hollywood-movie-wall-poster-pirates-of-the-caribbean-dead-original-imaf9uv7zzgp6wvg.jpeg?q=90",
+        "movieTitle":"Pirates of the Caribbean",
+        "movieContext":"Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle."
     }
+    
 ]
